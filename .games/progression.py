@@ -1,5 +1,7 @@
-from main.engine import play_game
 import random
+
+from engine import play_game
+
 
 def generate_progression_question():
     length = random.randint(5, 10)
