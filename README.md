@@ -3,4 +3,6 @@
 
 Progression game - https://asciinema.org/a/vWSiNXHtrvbrnbkqWlYvisQbk
 
+Nok game - https://asciinema.org/a/z3fYBYgMRqVgUcvOaezkwVYB3
+
 
